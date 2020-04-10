@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* print temperature table Fahrenheit and Celsius */
+/* print temperature table Fahrenheit and Celsius  */
 main()
 {
 int fahr;
